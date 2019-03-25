@@ -1,6 +1,8 @@
 
 # coding: utf-8
 
+# The algorithm for this code is inspired to this one: https://www.youtube.com/watch?v=373FUw-2U2k
+
 # In[6]:
 
 
